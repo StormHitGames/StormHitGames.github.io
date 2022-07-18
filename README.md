@@ -1,2 +1,2 @@
-# home.github.io
+# home
 StormHit Games Official website
